@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: rgb(85, 127, 141);
+  background: linear-gradient(#eed1ce, #bebbcc, #9ba6c9, #8d95b8 );
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+
+.wrapper {
+  padding: 20px;
+}
+
+
 
 @keyframes App-logo-spin {
   from {
