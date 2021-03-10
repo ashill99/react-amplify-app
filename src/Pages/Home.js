@@ -5,9 +5,9 @@ function Home() {
 
 return (
     <div className="Home">
-        <h1>Hi, my name is Adam Shilling and I'm a fullstack Software Engineer and Web / Mobile Developer.  </h1>
-        <p>London-born, New York-based. I'm passionate about building customer-facing products and services that improve efficiency and hopefully make people's lives a little easier and the world a better place. </p>
-        <p>Massive Manchester United fan and always keen to tell you my current list of best tacos and pizza in NYC.</p> 
+        <h1 className="main-heading">Hi, I'm Adam Shilling, a fullstack Software Engineer and Web / Mobile Developer  </h1>
+        <p>London-born, New York-based. Passionate about good, clean design and building products that help make people's lives easier </p>
+        <p>Massive Manchester United fan and always eager to tell you the best pizza in NYC</p> 
         <img className="propic" src={adampic} alt="Adam Shilling" />
     </div>
 )

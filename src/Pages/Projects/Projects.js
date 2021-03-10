@@ -1,14 +1,18 @@
 import React from 'react';
+import BangerBracket from './BangerBracket';
+import Heat from './Heat'
+import JavaTript from './JavaTript'
+
 
 function Projects() {
 
 return (
     <div className="Projects">
-        <h1>Projects</h1>
+        <h1 className="main-heading">Projects</h1>
         <ul>
-            <li>hEat</li>
-            <li>Banger Bracket</li>
-            <li>JavaTript</li>
+            <Heat />
+            <BangerBracket />
+            <JavaTript />
         </ul>
     </div>
 )

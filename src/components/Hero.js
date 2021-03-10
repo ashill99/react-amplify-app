@@ -5,8 +5,9 @@ export default function Hero() {
 
     return (
         <div className="hero-div">
-            <img className="hero-text" src={adamsimpsonfont} alt="Adam Shilling" />
-
+            <div class="fade-in">
+                <img className="hero-text" src={adamsimpsonfont} alt="Adam Shilling" />
+            </div>
         </div>
         
     )
