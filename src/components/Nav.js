@@ -31,18 +31,6 @@ export default function Nav() {
                 Projects
               </Link>
               </div>
-              <div className="nav-item">
-              <Link
-                activeClass="active"
-                to="Contact"
-                spy={true}
-                smooth={true}
-                offset={0}
-                duration={500}
-              >
-                Contact
-              </Link>
-              </div>
         </div>
       </nav>
     );

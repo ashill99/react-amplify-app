@@ -30,11 +30,6 @@ function App() {
             dark={true}
             id="Projects"
             />
-          <Contact 
-            title="Contact"
-            dark={true}
-            id="Contact"
-            />
         </div>
   );
 };
