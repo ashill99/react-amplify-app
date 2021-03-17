@@ -16,6 +16,7 @@ return (
             </ul>
         </div>
         <ul className="phone-screenshots">
+        <iframe className="youtube-vid" width="560" height="315" src="https://www.youtube.com/embed/4hSeyJ6l4og" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <img className="ios-screenshot" src={mainpageHeat} alt="home page hEat" />
             <img className="ios-screenshot" src={heatmap} alt="heat map"/>
             <img className="ios-screenshot" src={restpage} alt="restaurant page"/>
