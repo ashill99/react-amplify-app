@@ -22,8 +22,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 100vh;
-  min-height: 100vh;
+  height: 100%;
+  min-height: 100%;
 
 }
 
@@ -56,7 +56,7 @@
 }
 
 .Home {
-  margin-top: 10px;
+  margin-top: 30%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -88,7 +88,7 @@
 }
 
 .Contact {
-  margin-top: 50px;
+  margin-top: 50%;
   align-items: center;
   justify-content: center;
 }
@@ -113,7 +113,7 @@
 
 }
 .social-icon {
-  width: 50px;
+  width: 80%;
   height: auto;
   margin-left: 20px;
   margin-right: 20px;
