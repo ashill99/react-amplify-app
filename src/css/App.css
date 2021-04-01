@@ -96,7 +96,7 @@
 .main-heading {
   display: flex;
   font-family: 'Exo', sans-serif;
-  font-size: 56px;
+  font-size: 300%;
   align-items: center;
   justify-content: center;
   text-align:center;
@@ -131,6 +131,7 @@
 }
 
 .youtube-vid {
+  width: 50%    !important;
   margin: 5px; 
   margin-left: 20%;
   margin-right: 20%;
@@ -160,7 +161,7 @@
 }
 
 .project-title {
-  font-size: 80px;
+  font-size: 400%;
   color: whitesmoke;
   font-family: 'Exo', sans-serif;
   font-style: italic;
