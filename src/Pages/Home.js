@@ -8,8 +8,8 @@ function Home() {
 return (
     <div className="Home">
         <h1 className="main-heading">Hi, I'm Adam Shilling, a fullstack Software Engineer and Web / Mobile Developer  </h1>
-        <p className="bio">London-born, New York-based. Passionate about good, clean design and building products that help make people's lives easier </p>
-        <p className="bio">Massive Manchester United fan and always eager to tell you the best pizza in NYC</p> 
+        <p className="bio">London-born, New York-based. Passionate about good, clean design and building products that make people's lives better & easier</p>
+        <p className="bio">Massive Manchester United fan and always eager to talk about the best pizza in NYC</p> 
         <img className="propic" src={adampic} alt="Adam Shilling" />
         <div className="social-icons">
             <a href="https://www.linkedin.com/in/adamcshilling/">
