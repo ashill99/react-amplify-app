@@ -8,7 +8,7 @@ function BangerBracket() {
 
 return (
     <div className="BangerBracket">
-        <h1 className="project-title">Banger Bracket</h1>
+    <a href="https://github.com/gooseisdead/song-tournament-frontend/tree/master" className="project-title"> Banger Bracket </a>
         <div className="project-text">
             <p >An interactive game that allows users to pick songs and have them compete against each other in ‘March-Madness’ style bracket format </p>
             <ul>

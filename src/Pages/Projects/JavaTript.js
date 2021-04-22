@@ -6,7 +6,7 @@ function JavaTript() {
 
 return (
     <div className="JavaTript">
-        <h1 className="project-title">JavaTript</h1>
+    <a href="https://github.com/wickedvic/javatript-frontend" className="project-title"> JavaTript </a>
         <div className="project-text">
             <p >An Instagram-style photo journal that allows users to upload pictures from trips they have taken to a visual map, have them marked on the map with pins and allows users to like and comment on pictures </p>
             <ul>

@@ -7,7 +7,7 @@ function Heat() {
 
 return (
     <div className="Heat">
-        <h1 className="project-title">hEat</h1>
+    <a href="https://github.com/ashill99/hEat-frontend-" className="project-title"> hEat </a>
         <div className="project-text">
             <p >A mobile app that displays crowdsourced restaurants and bars in NYC with heat lamps based on user location and proximity</p>
             <ul>
